@@ -8,7 +8,7 @@ use instructions::*;
 
 declare_id!("HeLiX1111111111111111111111111111111111111");
 
-/// Helix Storage Program
+/// Helix Storage Storage Program
 /// 
 /// A Solana program for managing permanent encrypted file storage metadata.
 /// Files are stored on Arweave via Irys, while this program maintains
