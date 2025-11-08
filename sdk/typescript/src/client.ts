@@ -299,3 +299,5 @@ export class HelixClient {
         }
     }
 }
+
+// v0.1.0
