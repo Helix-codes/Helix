@@ -576,3 +576,5 @@ class HelixClient:
     async def __aexit__(self, *args: Any) -> None:
         """Async context manager exit."""
         await self.close()
+
+# v0.1.0
