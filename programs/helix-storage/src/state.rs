@@ -258,3 +258,5 @@ pub struct FileDeleted {
     pub owner: Pubkey,
     pub timestamp: i64,
 }
+
+// Account structures
