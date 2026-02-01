@@ -296,3 +296,5 @@ class KeyStorage:
         
         data = json.loads(Path(path).read_text())
         self.import_all(data)
+
+# Encryption utilities
