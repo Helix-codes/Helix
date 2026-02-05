@@ -14,9 +14,8 @@
   <a href="#"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License" /></a>
   <a href="https://app.helixlab.cloud/"><img src="https://img.shields.io/badge/Website-helixlab.cloud-orange?style=flat-square" alt="Website" /></a>
   <a href="https://x.com/helix_cloud"><img src="https://img.shields.io/badge/Twitter-@helix__cloud-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  CA : AwnQvpSU7E1VraPLNZ2SaJeTgiVENzDMXq4Eozygpump
 </p>
-
-CA : AwnQvpSU7E1VraPLNZ2SaJeTgiVENzDMXq4Eozygpump
 
 # Helix Storage SDK
 
