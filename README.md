@@ -13,7 +13,7 @@
   <a href="#"><img src="https://img.shields.io/badge/version-0.1.0-blue?style=flat-square" alt="Version" /></a>
   <a href="#"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License" /></a>
   <a href="https://app.helixlab.cloud/"><img src="https://img.shields.io/badge/Website-helixlab.cloud-orange?style=flat-square" alt="Website" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-@helix__storage-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://x.com/helix_cloud"><img src="https://img.shields.io/badge/Twitter-@helix__cloud-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
 </p>
 
 # Helix Storage SDK
