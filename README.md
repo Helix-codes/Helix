@@ -1,3 +1,21 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Helix Storage" width="100%" />
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Solana-9945FF?style=for-the-badge&logo=solana&logoColor=white" alt="Solana" /></a>
+</p>
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/version-0.1.0-blue?style=flat-square" alt="Version" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Website-helix.storage-orange?style=flat-square" alt="Website" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-@helix__storage-1DA1F2?style=flat-square&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</p>
+
 # Helix Storage SDK
 
 A comprehensive SDK suite for permanent encrypted storage on Solana and Arweave.

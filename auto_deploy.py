@@ -225,20 +225,17 @@ def generate_commit_schedule() -> list[tuple[datetime.datetime, str]]:
 def create_commits(schedule: list[tuple[datetime.datetime, str]]) -> None:
     """Create all commits with backdated timestamps."""
     for i, (dt, msg) in enumerate(schedule):
-        modify_file_for_commit(i + 1)
-        
-        run_cmd("git add -A")
-        
         iso_date = dt.isoformat()
         env = os.environ.copy()
         env["GIT_AUTHOR_DATE"] = iso_date
         env["GIT_COMMITTER_DATE"] = iso_date
         
         subprocess.run(
-            ["git", "commit", "-m", msg],
+            ["git", "commit", "--allow-empty", "-m", msg],
             check=True,
             cwd=REPO_PATH,
             env=env,
+            capture_output=True,
         )
         
         if (i + 1) % 50 == 0:
